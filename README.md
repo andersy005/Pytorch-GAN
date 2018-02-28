@@ -1,5 +1,9 @@
+
 # Pytorch-GAN
 Pytorch implementations of Generative Adversarial Networks.
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/andersy005/Pytorch-GAN/master)
+
 
 ## About
 This repo contains Pytorch implementations of Generative Adversarial Networks (GANs) suggested in research papers. The implementations are adapted from [Erik Linder-Norén's Keras-GAN repo](https://github.com/eriklindernoren/Keras-GAN).
