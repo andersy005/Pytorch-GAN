@@ -1,0 +1,18 @@
+name: gans
+channels:
+  - pytorch
+  - ioam
+  - bokeh
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - jupyterlab
+  - ipywidgets
+  - pandas
+  - seaborn
+  - scikit-learn
+  - nodejs
+  - pytorch-cpu 
+  - torchvision
